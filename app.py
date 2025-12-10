@@ -27,7 +27,7 @@ prompt = ChatPromptTemplate.from_messages(
 #streamlit framework
 
 st.title("LANGCHAIN-chatbot")
-input_text = st.text_input("search the topic you want")
+input_text = st.text_input("ASK ANY QUESTION")
 
 #gemini LLM
 
